@@ -28,7 +28,7 @@ The list is separated into Free and Paid and broken into subsections based on lo
  - [Sharpe](https://www.sharpe.ai/docs/free-api) - Real-time crypto market data API covering funding, derivatives, arbitrage, narratives, listings, and news.
  - [Agent Gateway](https://agent-gateway-kappa.vercel.app/prices) - Free REST API for real-time prices of 500+ crypto tokens via Hyperliquid. No API key required. Poll `GET /prices` for live market data.
  - [OpenChainBench](https://openchainbench.com) - Open benchmarks of crypto infrastructure (RPC providers, bridges, oracles, L1 finality, prediction-market data, Hyperliquid builders) refreshed every minute via a JSON feed, with daily Parquet snapshots on [Hugging Face](https://huggingface.co/datasets/OpenChainBench/benchmarks) (CC-BY-4.0) archived on Zenodo. [[DOI]](https://doi.org/10.5281/zenodo.20800311)
- - 
+  - [CoinNudge](https://coinnudge.site/data) - Crypto market-research datasets over HTTP: free no-key JSON/CSV snapshots for market breadth, funding, open interest, liquidations and listings, plus a daily event-study release with self-service keys or Parquet files.
 
 ### Transportation
  - [Open Rail Data](https://wiki.openraildata.com/index.php/Rail_Data_FAQ) - A collection of APIs that provide data relating to the UK rail network, including reference data, train timetables, and live service updates. The live data is streamed using the STOMP protocol.
